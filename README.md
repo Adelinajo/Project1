@@ -7,7 +7,7 @@ Digital Ledger for Police Post Logs
    date.
 2. Establish db connection and use the CSV file as input and insert the cleaned data into db using insert query by specifying placeholder values by mapping pandas datatype with
    MYSQL datatype.The table is created and the data are inserted baased on columns and datatype.
-3. Once the table CPolice is created. Simple and complex queries are written and it is displayed in streamlit using selection box.
+3. Once the table CPolice1 is created. Simple and complex queries are written and it is displayed in streamlit using selection box.
 4. A input form is created to fill the necessary details like stop_date,stop_time,driver_age,race and prediction is made based on the input from the form. ie. This gives
    the prediction about violation and outcome of the violation and the summary is displayed based on the form and predicted values.
 5. Using matplotlib.pyplot a graph is plotted against violation and its count.
