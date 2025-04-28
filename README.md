@@ -1,4 +1,4 @@
-# Project1
+# Police Post Log
 Digital Ledger for Police Post Logs
     This project aim to streamline vehicle logging and tracking at police check posts.With Streamlite dashboard helps to Predict the insights about datasets and outcome of the violations. 
 1. Main.py contains 2 tabs. First tab displays Raw dataset and Second Tab represent Prerequisite or cleaned data from the raw dataset. Cleaning is done by checking for NAN/Null 
